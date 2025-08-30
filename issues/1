@@ -1,0 +1,8 @@
+הוספתי את מבנה הפרויקט בענף init/seminar-structure והעליתי commit ראשון.
+פעולות להשלמה:
+- [ ] פתיחת PR מ‑init/seminar-structure ל‑main (כותרת: Init: seminar structure and templates)
+- [ ] squash & merge לאחר סקירה
+- [ ] תוספת תווית: documentation
+- [ ] מינוי @michaelkrau כ‑assignee/reviewer
+
+קישור ל‑commit: https://github.com/michaelkrau/wingate-civic-body/commit/aab1c9ac856d9b035ad620dcf1628e7f90b6c13a
