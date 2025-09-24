@@ -38,6 +38,8 @@ Christensen, L., & Davis, M. (2020). Experiential learning in physical education
 
 Clark, R., & Nevins, S. (2021). The role model effect: How physical education teachers influence student values. *Research Quarterly for Exercise and Sport*, 92(2), 234-248.
 
+Cooper, H. (2017). *Research synthesis and meta-analysis: A step-by-step approach* (5th ed.). Sage Publications.
+
 Cooper, J., & Yardley, T. (2020). Challenges in implementing values education in physical education: A survey of teachers. *Physical Education and Sport Pedagogy*, 25(4), 411-425.
 
 Dewey, J. (1916). *Democracy and education*. Macmillan.
@@ -89,6 +91,8 @@ Oliver, K., & Kirk, D. (2016). Towards an activist approach to research and advo
 Pécouteur, M. (2020). Postmodern approaches to physical education: Deconstructing traditional narratives. *Critical Studies in Education*, 61(4), 456-472.
 
 Perkins, D., Adams, C., & Wilson, T. (2020). Long-term impact of physical education teacher relationships on civic engagement: A longitudinal study. *Journal of School Health*, 90(8), 623-632.
+
+Petticrew, M., & Roberts, H. (2006). *Systematic reviews in the social sciences: A practical guide*. Blackwell Publishing.
 
 Platley, M., & McConnell, R. (2017). The informal educational space of physical education. *International Journal of Educational Research*, 85, 34-43.
 
