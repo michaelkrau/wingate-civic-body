@@ -17,6 +17,8 @@
 - Sport AND citizenship education
 - Physical activity AND moral development
 - Character education AND physical education
+- Values education AND sport pedagogy
+- Democratic values AND physical activity
 
 ### מילות מפתח בחיפוש (בעברית):
 - חינוך גופני וערכים אזרחיים
